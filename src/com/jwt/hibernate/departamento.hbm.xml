@@ -3,7 +3,7 @@
                                    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
 <!-- Generated 29-may-2018 14:36:52 by Hibernate Tools 3.5.0.Final -->
 <hibernate-mapping>
- <class name="com.jwt.hibernate.Departamento" table="DEPARTAMENTO">
+ <class name="com.jwt.hibernate.Departamento" table="Departamento">
   <id column="codigo" name="codigo" type="int">
    <generator class="increment"/>
   </id>

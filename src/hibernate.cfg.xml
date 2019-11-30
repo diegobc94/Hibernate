@@ -12,5 +12,6 @@
 		<property name="format_sql">true</property>
 		<mapping resource="com/jwt/hibernate/persona.hbm.xml" />
 		<mapping resource="com/jwt/hibernate/departamento.hbm.xml" />
+		<mapping resource="com/jwt/hibernate/login.hbm.xml" />
 	</session-factory>
 </hibernate-configuration>
